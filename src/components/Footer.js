@@ -13,7 +13,7 @@ const Footer = (props) => (
                 wesentlich verringern kann und verspannungen los wird.
                  </p>
             <ul className="actions">
-                <li><Link to="/generic" className="button"></Link></li>
+                <li><Link to="/generic" className="button">Mehr dazu</Link></li>
             </ul> 
         </section>
         <section>
@@ -32,7 +32,7 @@ const Footer = (props) => (
                 <li><a href="#" className="icon fa-instagram alt"><span className="label">Instagram</span></a></li>
             </ul>
         </section>
-        <p className="copyright">&copy; Template von: <a href="https://html5up.net">HTML5 UP</a>.</p>
+        <p className="copyright">&copy; 2018 dehne.ch</p>
     </footer>
 )
 

@@ -18,8 +18,7 @@ module.exports = {
         icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
       },
       
-        resolve: 'gatsby-source-datocms',
-        options: { apiToken: 'a8ccaa6b18896e0b2b5575142320f1' },
+      
 
     
   
