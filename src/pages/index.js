@@ -47,11 +47,11 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>dehne.ch</h2>
                 </header>
-                <p>Dehnen verbessert die Beweglichkeit, 
-                  und es hilft sowohl 
-                  kurzfristig als auch langfristig gegen Verspannungen. 
-                  Dehnen ist mehr als sich nur zu strecken vor oder nach dem Sport.
-                  Wir dehnen länger und tiefer mit dem Ziel eine permanente Verbesserung zu erreichen.</p>
+                <p>Dehnen verbessert die Beweglichkeit 
+                  und hilft sowohl 
+                  kurzfristig als auch langfristig gegen Verspannungen. <br />
+
+                  Wir dehnen Zusammen mit dem Ziel eine bleibende Verbesserung zu erreichen und das jeder lernt für sich selbst ein Dehnprogramm zusammenzustellen.  </p>
                 <ul className="actions">
                   <li><Link to="/generic" className="button">Mehr dazu</Link></li>
                 </ul>
@@ -68,8 +68,8 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style1 fa-superpowers"></span>
                 <h3>Beweglichkeit</h3>
-                <p>Durch das Dehnen werden die Muskeln und Faszien langgezogen
-                  Dadurch werden die Durchblutung angeregt und 
+                <p>Durch das Dehnen werden die Muskeln und Faszien bewegt.
+                  Die Durchblutung soll angeregt werden und 
                   die Muskeln können wieder besser arbeiten.
 
                 </p>
@@ -77,16 +77,16 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style3 fa-eercast"></span>
                 <h3>Fit</h3>
-                <p>Dehnen ist der gewünschte Ausgleich zum 
+                <p>Dehnen ist die Abwechslung zum 
                   Sport, um die Muskeln beweglich zu halten und somit Verspannungen und Verletzungen vorzubeugen
                 </p>
               </li>
               <li>
                 <span className="icon major style5 fa-heart"></span>
-                <h3>Gesund</h3>
-                <p>
-                  Einerseits hilft dehnen bei der Haltung andererseits 
-                  Der wichtigste grund wieso Dehnen ist die vorbeugung von Alters- und Abnutzungsbeschwerden </p>
+                <h3>Atmung</h3>
+                <p>Ein gesunder Körper braucht viel Sauerstoff. 
+                  Das tiefe Atmen beim Dehnen hilft den Sauerstoff zu den Organen und den Muskeln zu transportieren.
+                 </p>
               </li>
             </ul>
             <footer className="major">
@@ -99,8 +99,7 @@ class Index extends React.Component {
           <section id="second" className="main special">
             <header className="major1">
               <h2>Dehnbarkeit</h2>
-              <p>Es gibt viele Arten von Dehnen. </p>
-               <p> Einige widmen sich nur der Dehnbarkeit, andere machen ein gemisch aus Kraft- und Dehnungsübungen. </p>
+              <p></p>
             </header>
             <ul className="statistics">
               <li className="style1">
@@ -109,7 +108,7 @@ class Index extends React.Component {
               </li>
               <li className="style2">
                 <span className="icon fa-chain"></span>
-                <strong>Viele</strong> Faszien
+                <strong>1</strong> Körper
               </li>
               <li className="style3">
                 <span className="icon fa-cogs"></span>
@@ -121,17 +120,11 @@ class Index extends React.Component {
               </li>
               
             </ul>
-            <p className="content">Beweglichkeitsübungen sind wichtige Trainingselemente. 
-            Durch regelmässiges Dehnen bleiben Sie beweglich und beugen Verletzungen vor – im Training, wie im täglichen Leben.
-Beweglichkeit fördern und erhalten
-Durch regelmässiges Dehnen verbessern Sie die Beweglichkeit. Sie steigern dadurch Ihr Bewegungsbewusstsein und Ihr Körpergefühl. 
-Zudem schützen Sie Ihren Körper besser vor Verletzungen.  
-Mit neu gewonnenem Lebensgefühl starten Sie wieder in den Alltag.
+            <p className="content">
+
             </p>
             <footer className="major">
-              <ul className="actions">
-                <li><Link to="/generic" className="button">Learn More</Link></li>
-              </ul>
+            
             </footer>
           </section>
 
@@ -139,7 +132,7 @@ Mit neu gewonnenem Lebensgefühl starten Sie wieder in den Alltag.
             <header className="major">
               <h2>Kommen Sie vorbei & machen Sie mit</h2>
               <p> 1 x pro Woche Dehnen wir gemeinsam in Zürich.  </p>
-               <p> Sie benötigen lediglich bequeme Sportkleidung.</p>
+               <p> Sie benötigen lediglich bequeme Kleidung.</p>
                 <p>Kosten: Ein kleiner freiwilliger Beitrag </p>
              
             </header>
