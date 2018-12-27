@@ -106,10 +106,7 @@ class Index extends React.Component {
                 <span className="icon fa-asterisk"></span>
                 <strong>656</strong> Muskeln
               </li>
-              <li className="style2">
-                <span className="icon fa-chain"></span>
-                <strong>1</strong> Körper
-              </li>
+            
               <li className="style3">
                 <span className="icon fa-cogs"></span>
                 <strong>205</strong> Knochen
@@ -138,7 +135,7 @@ class Index extends React.Component {
             </header>
             <footer className="major">
               <ul className="actions">    
-                          <button className = "big special button" > <a href="https://www.meetup.com/Zurich-Bewusste-Bewegung-Dehnung-mit-Yin-Yoga-Meetup/events/"> jetz anmelden</a></button>
+                          <button className = "big special button" > <a href="https://www.meetup.com/Zurich-Bewusste-Bewegung-Dehnung-mit-Yin-Yoga-Meetup/events/"> anmelden</a></button>
 
                 
               </ul>
