@@ -128,7 +128,7 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>Kommen Sie vorbei & machen Sie mit</h2>
-              <p> 1 x pro Woche Dehnen wir gemeinsam in Zürich.  </p>
+              <p> 1 x pro Woche Dehnen in Zürich.</p>
                <p> Sie benötigen lediglich bequeme Kleidung.</p>
                 <p>Kosten: Ein kleiner freiwilliger Beitrag </p>
              
