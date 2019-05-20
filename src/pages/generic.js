@@ -18,14 +18,15 @@ class Generic extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic04} alt="" /></span>
-<h2>Wie wir Dehnen </h2>
+<h2>Dehnen für Alle </h2>
+
 <p>
-Die Dehnbarkeit unterscheidet sich bei jedem. Daher wird am Anfang evaluiert wie beweglich man ist 
-und mit welchen Dehnungsübungen begonnen wird.<br />
+Der Raum und die Hilfsmittel stehen 1 x pro Woche zur Verfügung um zu Dehnen. <br/>
+Von 17:00 - 20:00 kann man vorbei kommen um selbstständig zu dehnen <br/>
+Sie benötigen nur bequeme Kleider - Yogamatten sind im Raum vorhanden.
+Mit dem Coaching von Romie kann evaluiert werden wie man am besten anfängt. <br/>
 
-Wir praktizieren passives Dehnen, welches einfache Hilfsmittel wie Yogablöcke, Kissen, Bälle usw. verwendet.<br/> 
-Je elastischer man ist desto weniger werden Hilfsmittel benötigt. <br/>
-
+<br/>
 Ziel ist es die Dehnungsübungen auch Zuhause machen zu können. 
 
 </p>
@@ -33,25 +34,25 @@ Ziel ist es die Dehnungsübungen auch Zuhause machen zu können.
 
 <p>Es wird langsam und lang gedehnt, passend zu den Möglichkeiten des Körpers. <br/>
 
+
 Diese Art von langanhaltendem Dehnen hilft dem Körper verständlich zu machen 
 inwiefern adaptiert werden soll.
    <br/>
-  Das Dehnen der Wirbelsäule und des Beckens ist ein wichtiger Fokus.<br/>
+   Wir benutzen Hilfsmittel wie Kissen, Sandsäcke etc. um die korrekte Dehnung zu erreichen. <br/>
 
- Ziel ist es Muskeln, Sehnen, Faszien usw. optimal mit Sauerstoff 
- zu versorgen und dem Körper helfen zu entschlacken.</p>
+
+ 
   
 <p/>
 
 
 <p> <h2>   Dehnbarkeit  </h2>
 
-Der Bewegungsapparat des Menschen ist komplex
-und noch lange nicht komplett erforscht.<br/>
-Bekannt ist, dass Körpergewebe mit dem älter werden trockener wird und an Elastizität verliert. <br/>
-Im Alter beweglich und schmerzfrei zu bleiben ist möglich durch Dehnbarkeit.<br/> 
-Auch bekannt ist, zu langes Sitzen oder einseitiges Bewegen führt zu Verspannungen und Verklebungen.<br/>
-Dehnen ist ein Schritt zur Lösung dieser Probleme und man kann selbst daran arbeiten. <br/>
+
+Bekannt ist, dass Körpergewebe mit dem Alter unbeweglicher wird und an Kraft verliert. <br/>
+Im Alter beweglich und fit zu bleiben ist möglich durch regelmässiges Dehnen und Training<br/> 
+Auch bekannt ist, zu langes Sitzen oder einseitiges Bewegen führt zu Verspannungen<br/>
+Dehnen ist ein Ansatz zur Lösung von körperlichen Beschwerden <br/>
 </p> 
 
 
@@ -60,6 +61,7 @@ Dehnen ist ein Schritt zur Lösung dieser Probleme und man kann selbst daran arb
 - Die Folgen von Unfällen besser überwinden können. <br />
 - Verbesserung der Körperhaltung und Verminderung von Gelenkschmerzen. <br/>
 - Mit elastischem Körpergewebe dazu beitragen Muskelmasse zu behalten.<br/>
+- Muskeln, Organe, Faszien usw. optimal mit Sauerstoff zu versorgen </p>
 </p>  
 <br/>
 

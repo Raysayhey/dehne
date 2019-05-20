@@ -18,6 +18,7 @@ class Index extends React.Component {
 
   _handleWaypointEnter= () => {
     this.setState(() => ({ stickyNav: false }));
+   
   }
 
   _handleWaypointLeave = () => {
